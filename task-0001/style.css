@@ -108,13 +108,11 @@ caption{
 }
 .main__detail{
 
-    margin: 1rem 13rem;
+    margin: 1rem 12rem;
     padding: 1rem;
     display: flex;
     justify-content: center;
-    
-    background-color: cornflowerblue;
-    
+    background-color: cadetblue;
 }
 .main__detail div{
     display: flex;
