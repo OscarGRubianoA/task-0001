@@ -106,6 +106,14 @@ section h5{
 caption{
     font-size: 2rem;
 }
+.main__detail{
+    display: flex;
+    
+}
+.detail__img{
+    height: 20rem;
+    width: 20rem;
+}
 footer{
     display: flex;
     justify-content: space-between;
