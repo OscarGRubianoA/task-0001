@@ -18,6 +18,7 @@ header{
     justify-content: space-around;
     align-items: center;
     background-color:black;
+   
     
 }
 header>nav{
@@ -41,6 +42,7 @@ header img{
     background-color: rgba(0, 0, 0, 0.626);
     align-items: center;
     height: 8rem;
+    color: white;
 }
 .container__2{
     display: flex;
@@ -125,6 +127,16 @@ caption{
 .detail__img{
     height: 20rem;
     width: 20rem;
+}
+thead{
+    background-color: rgba(0, 0, 0, 0.075);
+}
+tr,td,th{
+    border:2px solid black;
+    
+}
+caption{
+    background-color: rgba(0, 0, 0, 0.454);
 }
 footer{
     display: flex;
