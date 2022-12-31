@@ -13,6 +13,7 @@ main{
    background-size: 100%;
 }
 header{
+    height: 20vh;
     display: flex;
     width: 100%;
     justify-content: space-around;
@@ -41,7 +42,7 @@ header img{
     justify-content: space-evenly;
     background-color: rgba(0, 0, 0, 0.626);
     align-items: center;
-    height: 8rem;
+    height: 9vh;
     color: white;
 }
 .container__2{
