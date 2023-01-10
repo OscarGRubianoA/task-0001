@@ -11,7 +11,7 @@ const data ={
             "place": "Room A",
             "capacity": 45000,
             "assistance": 42756,
-            "price": 5,
+            "price": '$5' ,
             "__v": 0
           },
           {
@@ -23,7 +23,7 @@ const data ={
             "category": "Food Fair",
             "place": "Room A",
             "capacity": 45000,
-            "price": 10,
+            "price": '$10',
             "__v": 0,
             "estimate": 42756
           },
@@ -36,7 +36,7 @@ const data ={
             "category": "Museum",
             "place": "Field",
             "capacity": 82000,
-            "price": 15,
+            "price":'$15',
             "__v": 0,
             "assistance": 65892
           },
@@ -50,7 +50,7 @@ const data ={
             "place": "Paris",
             "capacity": 8200,
             "estimate": 8200,
-            "price": 3500,
+            "price": '$3500',
             "__v": 0
           },
           {
@@ -63,7 +63,7 @@ const data ={
             "place": "Room C",
             "capacity": 120000,
             "assistance": 110000,
-            "price": 54,
+            "price": '$54',
             "__v": 0
           },
           {
@@ -76,7 +76,7 @@ const data ={
             "place": "Room C",
             "capacity": 12000,
             "estimate": 9000,
-            "price": 12,
+            "price": '$12',
             "__v": 0
           },
           {
@@ -89,7 +89,7 @@ const data ={
             "place": "Room A",
             "capacity": 138000,
             "estimate": 138000,
-            "price": 150,
+            "price": '$150',
             "__v": 0
           },
           {
@@ -102,7 +102,7 @@ const data ={
             "place": "Room A",
             "capacity": 138000,
             "assistance": 110300,
-            "price": 250,
+            "price": '$250',
             "__v": 0
           },
           {
@@ -115,7 +115,7 @@ const data ={
             "place": "Soccer field",
             "capacity": 30000,
             "assistance": 25698,
-            "price": 3,
+            "price": '$3',
             "__v": 0
           },
           {
@@ -127,7 +127,7 @@ const data ={
             "category": "Race",
             "place": "New York",
             "capacity": 3000000,
-            "price": 3,
+            "price": '$3',
             "__v": 0,
             "estimate": 2569800
           },
@@ -141,7 +141,7 @@ const data ={
             "place": "Room D1",
             "capacity": 150000,
             "estimate": 123286,
-            "price": 1,
+            "price": '$1',
             "__v": 0
           },
           {
@@ -154,7 +154,7 @@ const data ={
             "place": "Room D6",
             "capacity": 130000,
             "assistance": 90000,
-            "price": 100,
+            "price": '$100',
             "__v": 0
           },
           {
@@ -167,7 +167,7 @@ const data ={
             "place": "Room D1",
             "capacity": 11000,
             "assistance": 9300,
-            "price": 225,
+            "price": '$225',
             "__v": 0
           },
           {
@@ -180,7 +180,7 @@ const data ={
             "place": "Room D1",
             "capacity": 9000,
             "estimate": 9000,
-            "price": 250,
+            "price": '$250',
             "__v": 0
           }
         ]
