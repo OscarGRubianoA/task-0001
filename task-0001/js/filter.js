@@ -3,7 +3,7 @@ function filtros() {
     if (arrayfiltrado.length != 0) {
         imprimir(arrayfiltrado, 'main__container');
     } else {
-        imprimir(arraysinfiltrar, 'main__container');
+        imprimir(arrayfiltrado, 'main__container');
     }
 }
 filtros()
